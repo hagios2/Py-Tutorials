@@ -1,4 +1,3 @@
-
+Copied content
 This is a new content I'm putting into my file
-
 This is an added text for the sake of copying into another file
