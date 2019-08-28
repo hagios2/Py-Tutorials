@@ -86,7 +86,7 @@ future_age = f"age in 10 years will be {age_in_10_years}"
 
 print(future_age) """
 
-from sys import argv #module or library
+""" from sys import argv #module or library
 
 script, first, second = argv
 
@@ -98,4 +98,9 @@ print('Your first variable is: ', first)
 
 print('Your second variable is: ', second)
 
-print('Your third variable is: ', third)
+print('Your third variable is: ', third) """
+
+a, b = 0, 1
+while a < 10:
+    print(a)
+    a, b = b, a+b
